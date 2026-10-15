@@ -13,8 +13,9 @@ My research combines short- and long-read metagenomics, strain- and microdiversi
 
 - relate antibiotic resistance in sewage to community antibiotic use and clinical resistance;
 - quantify selection and horizontal gene transfer during wastewater treatment;
-- recover and characterize environmental plasmids at scale.
+- recover and characterize environmental mobile genetic elements;
+- develop predictive wastewater-based antibiotic resistance indicators for public health. 
 
-I completed my Ph.D. in Genetics, Bioinformatics, and Computational Biology at Virginia Tech with Amy Pruden. My dissertation received the 2024 GBCB Outstanding Dissertation Award.
+I completed my Ph.D. in Genetics, Bioinformatics, and Computational Biology at Virginia Tech with Amy Pruden.
 
 See my [CV](/cv/), [publications](/publications/), and [blog](/year-archive/).
